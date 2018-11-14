@@ -55,18 +55,18 @@
     * مپ های محیطی (کروی و مکعبی)
     * بازتاب و شکست نور
 
-* [Appendix:](appendix/) Other ways to use this book
-	* [How can I navigate this book offline?](appendix/00/)
-	* [How to run the examples on a Raspberry Pi?](appendix/01/)
-	* [How to print this book?](appendix/02/)
-    * [How can I collaborate?](appendix/03/)
-    * [An introduction for those coming from JS](appendix/04/) by [Nicolas Barradeau](http://www.barradeau.com/)
+* [ضمیمه:](appendix/) راه های دیگر استفاده از این کتاب
+	* [چگونه میتوانم در این کتاب افلاین بگردم؟?](appendix/00/)
+	* [چگونه میتوانم یک مثال را روی Raspberry Pi? اجرا کنم](appendix/01/)
+	* [چگونه میتوانم این کتاب را چاپ کنم؟?](appendix/02/)
+    * [چطور میتوانم همکاری کنم؟?](appendix/03/)
+    * [مقدمه ای برای کسانی که از جاوا اسکریپت میایند](appendix/04/) توسط [Nicolas Barradeau](http://www.barradeau.com/)
 
-* [Examples Gallery](examples/)
+* [مثال های گالری](examples/)
 
-* [Glossary](glossary/)
+* [واژه نامه](glossary/)
 
-## About the Authors
+## درباره نویسندگان
 
 [Patricio Gonzalez Vivo](http://patriciogonzalezvivo.com/) (1982, Buenos Aires, Argentina) is a New York based artist and developer. He explores interstitial spaces between organic and synthetic, analog and digital, individual and collective. In his work he uses code as an expressive language with the intention of developing a better together.
 
